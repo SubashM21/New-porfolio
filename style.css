@@ -426,7 +426,10 @@ textarea:focus {
 
 
 @media (max-width: 768px){
-
+    #home{
+    background-size: cover;
+    background-position: center;
+    }
 
     .main-container{
       width: 100%;
